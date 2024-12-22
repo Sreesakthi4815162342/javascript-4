@@ -1,0 +1,14 @@
+.card img{
+    max-height: 200px;
+    object-fit: contain;
+}
+.btn{
+    font-size: 14px;
+    padding: 4px 8px;
+}
+.card{
+    height: 100%;
+}
+body{
+    height: 100vh;
+}

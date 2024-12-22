@@ -1,0 +1,7 @@
+.product-image-container img{
+    height: 400px;
+    object-fit: contain;
+}
+body{
+    height: 100vh;
+}
